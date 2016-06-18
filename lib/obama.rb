@@ -1,8 +1,8 @@
-class Hola
-  def self.hi(language)
-    translator = Translator.new(language)
-    translator.hi
+class Obama
+  def self.author
+     "Hank Chen from Taiwan!!!"
   end
+
 end
 
-require 'hola/translator'
+require 'obama/sayings'
