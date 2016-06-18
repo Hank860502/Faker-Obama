@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.date = %q{2016-06-17}
   s.description = %q{Obama's Faker gem}
   s.email = %q{hank860502@gmail.com}
-  s.files = ["Rakefile", "lib/obama.rb", "lib/obama/sayings.rb", "bin/obama"]
+  s.files = ["Rakefile", "lib/obamafaker.rb", "lib/obama/saying.rb", "lib/obama/image.rb", "bin/obama"]
   s.test_files = ["test/test_obama.rb"]
-  s.homepage = %q{http://rubygems.org/gems/obamafaker} ##################
+  s.homepage = %q{http://rubygems.org/gems/obamafaker}
   s.require_paths = ["lib"]
   s.rubygems_version = %q{2.1.0}
   s.summary = %q{Random words or any sentence said by Obama!}

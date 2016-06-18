@@ -1,0 +1,10 @@
+class Obama::Image
+	def self.funny
+  	["https://community.lebara.com/servlet/JiveServlet/download/1956-8611/barack-obama-funny-face-for-facebook-share.jpg", "https://s-media-cache-ak0.pinimg.com/736x/80/c5/ee/80c5ee8341ed0f24ad0c5a3d2b9eac2e.jpg", "https://i.ytimg.com/vi/l8FhrAQrkkw/hqdefault.jpg", "http://media1.s-nbcnews.com/j/MSNBC/Components/Photo/_new/100330-tdy-obamahumor.grid-6x2.jpg", "https://www.askideas.com/media/38/Funny-Obama-Smiley-Face-Image.jpg", "https://www.askideas.com/media/38/Obama-Surprised-Face-Funny-Picture.jpg", "http://www.showbiz411.com/wp-content/uploads/2011/05/whcd_obama.jpg", "http://f.tqn.com/y/politicalhumor/1/L/f/4/5/obama-sunglasses.jpg", "http://topfunia.com/wp-content/uploads/2015/05/Laughing-Obama-1-1024x710.jpg", "http://linkis.com/url-image/http://www.tpnn.com/wp-content/uploads/2014/11/Obama-5.jpg", "http://66.media.tumblr.com/2ad5ddec3ed849750db1c5c216050f93/tumblr_o105srzIxb1rbxmbeo1_500.jpg", "http://media2.s-nbcnews.com/j/ap/obama%20-1678551023.grid-6x2.jpg", "http://advocacy.britannica.com/blog/advocacy/wp-content/uploads/wish-1.jpg", "http://i.telegraph.co.uk/multimedia/archive/01111/barack-obama-stari_1111370c.jpg"].sample
+  end
+
+  def self.serious
+  	["http://i2.cdn.turner.com/cnnnext/dam/assets/130410081024-obama-serious-face-horizontal-gallery.jpg", "http://www.thecuttingedgenews.com/uploads/cmimg_22296.jpg", "http://www.theyeshivaworld.com/wp-content/uploads/2014/11/oba.jpg", "http://www.dolcemag.com/wp-content/gallery/spring_barack-obama/barack-obama-face.jpg", "https://earthzebra.files.wordpress.com/2011/04/obama-serious.jpg", "http://a57.foxnews.com/global.fncstatic.com/static/managed/img/fn2/video/612/344/060915_an_keane_640.jpg?ve=1&tl=1", "https://applemagazine.com/wp-content/uploads/2014/01/barackobama_serious_ap.jpg", "http://www.the-american-interest.com/wp-content/uploads/2015/05/obama.jpg"].sample
+  end
+
+end
