@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
 
-require 'obamafaker'
+require 'obama'
 puts Obama.author
