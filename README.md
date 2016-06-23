@@ -5,7 +5,7 @@
  
  More methods coming up if this repository were stared more an 50 times.
  
-### NOTE
+### NOTE 
 
 * While Obama generates data at random, returned values are not guaranteed to be unique.
 
